@@ -3,4 +3,22 @@
   flex: 1;
   min-height: 100vh;
   background-color: #fafafa;
+  font-family: "Avenir", "Cabin";
+}
+
+.content {
+  margin: 200px 48px 0 48px;
+}
+
+.title {
+  font-size: 54px;
+  margin-top: 0;
+  font-family: "Avenir", "Cabin";
+}
+
+.info {
+  font-family: "Avenir", "Roboto";
+  max-width: 700px;
+  font-size: 18px;
+  color: #666;
 }
