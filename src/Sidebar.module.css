@@ -1,5 +1,19 @@
 .container {
   height: 100vh;
+  font-family: "Rubik";
   width: 300px;
   background-color: #f2f2f7;
+}
+
+.nav {
+  margin: 200px 32px 32px 32px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+.listItem {
+  list-style-type: none;
+  padding-bottom: 32px;
 }
